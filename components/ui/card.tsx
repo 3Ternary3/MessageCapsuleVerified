@@ -1,0 +1,1 @@
+export function Card({ children }: { children: React.ReactNode }) { return <div className='border border-gray-700 rounded-xl p-4 bg-gray-900'>{children}</div>; }

@@ -1,0 +1,1 @@
+export function TabsList({ children }: { children: React.ReactNode }) { return <div className='flex space-x-2 bg-gray-800 rounded'>{children}</div>; }
